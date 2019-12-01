@@ -1055,7 +1055,7 @@ export default {
                 "linkId": 52
             }, {
                 "id": 39,
-                "name": "卜璇",
+                "name": "测试",
                 "employeeNumber": "20191120",
                 "phone": "13218787851",
                 "label": "DeviceAdmin",
@@ -1153,7 +1153,7 @@ export default {
                 "linkId": 67
             }, {
                 "id": 148,
-                "name": "卜璇",
+                "name": "测试",
                 "employeeNumber": "20191118",
                 "phone": "13218787857",
                 "label": "DeviceAdmin",
