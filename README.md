@@ -8,4 +8,4 @@
 5、绘制节点自己指向自己的关系连接线
 6、两个节点多条关系连接线弧线绘制不重合功能
 7、关系图谱容器自适应屏幕大小功能
-![image](https://github.com/zhaoluo123/vue-d3-force/blob/master/%E5%9B%BE%E7%89%87%E8%AF%B4%E6%98%8E/graph.gif)
+![image](https://github.com/zhaoluo123/vue-d3-force/blob/master/%E5%9B%BE%E7%89%87%E8%AF%B4%E6%98%8E/graph1.gif)
